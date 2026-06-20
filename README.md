@@ -9,9 +9,9 @@
 ☢️ Dangerously refactoring legacy code quietly humming *[U Can't Touch This, 
 M.C. Hammer](https://www.youtube.com/watch?v=otCpCn0l4Wo)* <img src="https://emojis.slackmojis.com/emojis/images/1643515167/11827/vibing_cat.gif" height="22px" valign="middle" />
 
-🪖 Automating HR workflows inside military. Each floating-point error, 50 push-ups to begin with... <img src="https://emojis.slackmojis.com/emojis/images/1643514784/7942/blinkingguy.gif" height="22px" valign="middle" />
+🪖 Automating HR workflows in the military. Each floating-point error, 50 push-ups to begin with... <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" height="22px" valign="middle" />
 
-🏆 Challenging  Murphy's Law with `git push origin master --force` at Friday 4:59 PM <img src="https://media.tenor.com/6xcfcXMMccUAAAAC/deal-with.gif" height="22px" valign="middle" />
+🏆 Challenging  Murphy's Law with `git push origin master --force` on Friday 4:59 PM <img src="https://media.tenor.com/6xcfcXMMccUAAAAC/deal-with.gif" height="22px" valign="middle" />
 
 ---
 
